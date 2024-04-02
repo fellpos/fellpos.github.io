@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "1";
+    src: url(/public/assets/fonts/Anja\ Eliane.ttf);
+}
+
+@font-face {
+    font-family: "2";
+    src: url(/public/assets/fonts/Anja\ Eliane\ accent002.ttf);
+}
+
+@font-face {
+    font-family: "3";
+    src: url(/public/assets/fonts/lineto-circular-book.woff2);
+}
